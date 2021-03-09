@@ -1,4 +1,4 @@
-# Hi my name is Ilya 👋👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+# Hi my name is Ilya 👋
 
 ## Рад приветсвовать вас на своей странице 😀
 
@@ -6,6 +6,7 @@
 
 ### Мой стек 💪:
 
-![HTML](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
