@@ -12,3 +12,8 @@
 ![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
+
+### Контакты ✍:
+
+#### Mail 📫: ilyabolshakov44@gmail.com
+#### Tel 📱: +79510366308
