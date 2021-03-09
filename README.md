@@ -7,4 +7,4 @@
 ### Мой стек 💪:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
