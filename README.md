@@ -12,7 +12,8 @@
 ![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
-![Scss](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
+![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=less)
 
 
 ### Контакты ✍:
