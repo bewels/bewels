@@ -15,5 +15,5 @@
 
 ### Контакты ✍:
 
-#### Mail 📫: ilyabolshakov44@gmail.com
+#### Email 📫: ilyabolshakov44@gmail.com
 #### Tel 📱: +79510366308
