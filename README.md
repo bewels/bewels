@@ -17,6 +17,7 @@
 ![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=nextjs)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=nodejs)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 
 
 ### Контакты ✍:
