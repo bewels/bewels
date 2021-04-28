@@ -14,7 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=less)
-![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=next)
+![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=nextjs)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node)
 
 
 ### Контакты ✍:
