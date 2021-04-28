@@ -15,7 +15,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=less)
 ![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=nextjs)
-![Node](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=nodejs)
+![Node](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios)
