@@ -19,6 +19,8 @@
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios)
+![PostgreSQL](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=postgresql)
+![NestJS](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=nest)
 
 
 ### Контакты ✍:
