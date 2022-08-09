@@ -21,7 +21,8 @@
 ![Axios](https://img.shields.io/badge/-Axios-090909?style=for-the-badge&logo=axios)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=nestjs)
-
+![Redis](https://img.shields.io/badge/-Redis-090909?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 
 ### Контакты ✍:
 
