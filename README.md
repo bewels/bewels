@@ -2,6 +2,6 @@
 
 ### Контакты ✍:
 
-#### Email 📫: ilyabolshakov44@gmail.com
-#### Tel 📱: +79998073414
+#### Email 📫: ilyabackend212@gmail.com
+#### Telegram: @ilyabackend
 
